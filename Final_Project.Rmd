@@ -1,8 +1,8 @@
 ---
-title: "Final Project: Math 261"
+title: "Final Project"
 subtitle: "By : Hamza Sultan Khan Niazi"
 output: html_document
-#runtime: shiny
+runtime: shiny
 ---
 \
 
